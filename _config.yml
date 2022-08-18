@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+baseurl: /blog/
+url: http://sh1nok1.github.io
